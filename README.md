@@ -1,1 +1,1 @@
-# seconds-project-2022
+# second-project-2022
